@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "com.example.trello.app-merged_res-46:/drawable_logo_without_background.png.flat",
+        "source": "com.example.trello.app-main-48:/drawable/logo_without_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_remove.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-pngs-41:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_task.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_projects.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_projects.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_item_project.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\item_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_drawer_base.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_drawer_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_task_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_task_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_edit_task2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_edit_task2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_save_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_tasks.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_tasks.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_person_non_binary.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_person_non_binary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_warning_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_warning_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_highlight_low_small_easy.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\highlight_low_small_easy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_main_drawer_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\main_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_highlight_medium_regular_regular.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\highlight_medium_regular_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_rate_review_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_rate_review_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_input_bg_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\input_bg_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_content_edit_task.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\content_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_person_man.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_person_man.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_highlight_asap_vcomplex_vbig.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\highlight_asap_vcomplex_vbig.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_projects.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_tasks.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\menu_main_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\menu\\main_drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_fragment_done.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\fragment_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_architecture_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_architecture_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_personalize.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_personalize.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_edit.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_all_tasks.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_all_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_add.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_task_list_menu_document_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\task_list_menu_document_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_logo_without_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\logo_without_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_content_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_star_rate_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_edit_task.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_highlight_high_complex_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\highlight_high_complex_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_fragment_doing.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\fragment_doing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_person_woman.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_person_woman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_reply_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_reply_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-merged_res-46:/drawable_logo.png.flat",
+        "source": "com.example.trello.app-main-48:/drawable/logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_create_project.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_create_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_fragment_backlog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\fragment_backlog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\bg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_edit_project.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_edit_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\drawable_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-merged_res-46:\\layout_activity_create_task.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.1\\com.example.trello.app-main-48:\\layout\\activity_create_task.xml"
+    }
+]

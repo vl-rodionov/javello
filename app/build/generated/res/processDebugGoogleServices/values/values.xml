@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://univer-study-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">85951752723</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9a-Wpxa0lP3JYiRaBBhs8nNfTjfoEbJI</string>
+    <string name="google_app_id" translatable="false">1:85951752723:android:b629bae6f62da16fc0ade6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9a-Wpxa0lP3JYiRaBBhs8nNfTjfoEbJI</string>
+    <string name="google_storage_bucket" translatable="false">univer-study.firebasestorage.app</string>
+    <string name="project_id" translatable="false">univer-study</string>
+</resources>

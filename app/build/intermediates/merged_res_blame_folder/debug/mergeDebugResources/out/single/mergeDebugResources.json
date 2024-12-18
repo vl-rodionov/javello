@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_fragment_backlog.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/fragment_backlog.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_item_project.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/item_project.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_highlight_low_small_easy.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/highlight_low_small_easy.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_all_tasks.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_all_tasks.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_img.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_edit_task.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_edit_task.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_send_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_create_task.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_create_task.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_content_layout.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/content_layout.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/anim_top_animation.xml.flat",
+        "source": "com.example.trello.app-main-54:/anim/top_animation.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/anim_bottom_animation.xml.flat",
+        "source": "com.example.trello.app-main-54:/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_edit_task2.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_edit_task2.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_star_rate_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_person_man.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_person_man.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_item_comment.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_bg_view.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/bg_view.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_personalize.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_personalize.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_logout.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_logout.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_projects.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_projects.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_highlight_medium_regular_regular.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/highlight_medium_regular_regular.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_content_edit_task.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/content_edit_task.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_task_list_menu_document_svgrepo_com.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/task_list_menu_document_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_highlight_asap_vcomplex_vbig.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/highlight_asap_vcomplex_vbig.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_fragment_doing.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/fragment_doing.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_remove.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_remove.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_projects.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_projects.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_person_woman.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_person_woman.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/navigation_nav_graph.xml.flat",
+        "source": "com.example.trello.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_create_project.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_create_project.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_add.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_add.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_rate_review_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_rate_review_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_warning_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_warning_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_save_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_save_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_person_non_binary.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_person_non_binary.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_input_bg_background.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/input_bg_background.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_main_drawer_header.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/main_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_item_task.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_edit.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_edit.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_architecture_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_architecture_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_back.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_home.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_edit_project.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_edit_project.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.trello.app-main-54:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_highlight_high_complex_big.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/highlight_high_complex_big.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.trello.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_ic_tasks.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/ic_tasks.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_task.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_task.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_toolbar.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_share_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_logo.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_task_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_task_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_logo_without_background.png.flat",
+        "source": "com.example.trello.app-main-54:/drawable/logo_without_background.png"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_fragment_done.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/fragment_done.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_info_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/drawable_baseline_reply_24.xml.flat",
+        "source": "com.example.trello.app-main-54:/drawable/baseline_reply_24.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.trello.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_tasks.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_tasks.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_fragment_second.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_fragment_first.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/layout_activity_drawer_base.xml.flat",
+        "source": "com.example.trello.app-main-54:/layout/activity_drawer_base.xml"
+    },
+    {
+        "merged": "com.example.trello.app-debug-52:/menu_main_drawer_menu.xml.flat",
+        "source": "com.example.trello.app-main-54:/menu/main_drawer_menu.xml"
+    }
+]

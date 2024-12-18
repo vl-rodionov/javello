@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:id="@+id/personImage"
+            android:src="@drawable/baseline_person_24"
+            android:layout_marginRight="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/commentWriter"
+                    android:layout_toEndOf="@id/projectImage"
+                    android:textColor="@color/black"
+                    android:text="Comment Writer"
+                    android:textSize="20dp"
+                    />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/commentDate"
+                    android:layout_toEndOf="@id/commentWriter"
+                    android:textColor="@color/black"
+                    android:text="Comment Writer"
+                    android:textSize="14dp"
+                    android:layout_marginLeft="20dp"
+                    />
+            </LinearLayout>
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/commentText"
+                android:layout_toEndOf="@id/projectImage"
+                android:layout_below="@id/projectLeader"
+                android:textColor="@color/black"
+                android:text="Comment text"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/comment"
+        android:layout_marginTop="10dp"
+        android:background="#DAD8D8"/>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+com.example.trello.test.app-core-1.5.0-0 C:\Users\kiyotaka\.gradle\caches\8.9\transforms\5f5670fb8166680eb631c82364b55a9a\transformed\core-1.5.0\res
+com.example.trello.test.app-annotation-experimental-1.3.0-1 C:\Users\kiyotaka\.gradle\caches\8.9\transforms\aa817bb349e2f5d4e3c5283567f81532\transformed\annotation-experimental-1.3.0\res
+com.example.trello.test.app-androidTest-2 E:\Univer\Java\app\build\generated\res\resValues\androidTest\debug
+com.example.trello.test.app-mergeDebugAndroidTestResources-3 E:\Univer\Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.trello.test.app-mergeDebugAndroidTestResources-4 E:\Univer\Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.trello.test.app-debugAndroidTest-5 E:\Univer\Java\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
